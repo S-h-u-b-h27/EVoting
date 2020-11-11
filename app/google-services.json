@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1079390775483",
+    "firebase_url": "https://e-voting-26d4d.firebaseio.com",
+    "project_id": "e-voting-26d4d",
+    "storage_bucket": "e-voting-26d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079390775483:android:a332614d5838fda0e9a19e",
+        "android_client_info": {
+          "package_name": "com.example.evoting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079390775483-ibfmsk7pqi1k92hicvq9e3tk8ar855ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYhbJf8UJ6UYhxXdmhkaf5jVylAYP-lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079390775483-ibfmsk7pqi1k92hicvq9e3tk8ar855ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
